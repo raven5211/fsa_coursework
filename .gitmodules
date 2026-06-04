@@ -16,3 +16,6 @@
 [submodule "block06"]
 	path = block06
 	url = https://github.com/raven5211/fsa_block06.git
+[submodule "block07"]
+	path = block07
+	url = https://github.com/raven5211/fsa_block07.git
