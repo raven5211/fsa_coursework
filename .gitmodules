@@ -56,8 +56,11 @@
 	path = unit3/block03/project-pricing
 	url = https://github.com/raven5211/fsa_block_3_03_project-pricing.git
 [submodule "unit3/block04/fsa_block_3_04_tdd-intro"]
-	path = unit3/block04/fsa_block_3_04_tdd-intro
+	path = unit3/block04/tdd-intro
 	url = https://github.com/raven5211/fsa_block_3_04_tdd-intro.git
 [submodule "unit3/block03/tabletop-tools"]
 	path = unit3/block03/tabletop-tools
 	url = https://github.com/raven5211/fsa_tabletop-tools.git
+[submodule "unit1/block07/grid_practice"]
+	path = unit1/block07/grid_practice
+	url = https://github.com/raven5211/fsa_grid_practice.git
