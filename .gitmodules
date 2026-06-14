@@ -1,0 +1,63 @@
+[submodule "unit1/block02/hack_the_mainframe"]
+	path = unit1/block02/hack_the_mainframe
+	url = https://github.com/raven5211/fsa_hack_the_mainframe.git
+[submodule "unit1/block03/baked-potatoes"]
+	path = unit1/block03/baked-potatoes
+	url = https://github.com/raven5211/fsa_block_1_03_baked-potatoes.git
+[submodule "unit1/block03/github-workflow"]
+	path = unit1/block03/github-workflow
+	url = https://github.com/Not-Aiex/github-workflow.git
+[submodule "unit1/block04/html_practice.git"]
+	path = unit1/block04/html_practice.git
+	url = https://github.com/raven5211/fsa_block_1_04_html_practice.git
+[submodule "unit1/block04/zoo"]
+	path = unit1/block04/zoo
+	url = https://github.com/raven5211/fsa_block_1_04_zoo.git
+[submodule "unit1/block05/fairy-tale"]
+	path = unit1/block05/fairy-tale
+	url = https://github.com/raven5211/fsa_block_1_05_fairy-tale.git
+[submodule "unit1/block05/furniture-emporium"]
+	path = unit1/block05/furniture-emporium
+	url = https://github.com/raven5211/fsa_block_1_05_furniture-emporium.git
+[submodule "unit1/block06/fullstack-bakery"]
+	path = unit1/block06/fullstack-bakery
+	url = https://github.com/raven5211/fsa_block_1_06_fullstack-bakery.git
+[submodule "unit1/block06/solar-system"]
+	path = unit1/block06/solar-system
+	url = https://github.com/raven5211/fsa_block_1_06_solar-system.git
+[submodule "unit1/block06/flex_practice"]
+	path = unit1/block06/flex_practice
+	url = https://github.com/raven5211/fsa_block_1_06_flex_practice.git
+[submodule "unit1/block07/garden"]
+	path = unit1/block07/garden
+	url = https://github.com/raven5211/fsa_block_1_07_garden.git
+[submodule "unit1/block07/holy-grail"]
+	path = unit1/block07/holy-grail
+	url = https://github.com/raven5211/fsa_block_1_07_holy-grail.git
+[submodule "unit1/block08/qwirty"]
+	path = unit1/block08/qwirty
+	url = https://github.com/raven5211/fsa_block_1_08_qirty.git
+[submodule "unit1/block09/personal-website"]
+	path = unit1/block09/personal-website
+	url = https://github.com/raven5211/fsa_block_1_09_PersonalWebsite.git
+[submodule "unit3/block01/javascript-intro"]
+	path = unit3/block01/javascript-intro
+	url = https://github.com/raven5211/fsa_block_3_01_javascript-intro.git
+[submodule "unit3/block01/secure-the-vault"]
+	path = unit3/block01/secure-the-vault
+	url = https://github.com/raven5211/fsa_block_3_01_secure-the-vault.git
+[submodule "unit3/block02/pop-quiz"]
+	path = unit3/block02/pop-quiz
+	url = https://github.com/raven5211/fsa_block_3_02_pop-quiz.git
+[submodule "unit3/block02/vending-machine"]
+	path = unit3/block02/vending-machine
+	url = https://github.com/raven5211/fsa_block_3_02_vending-machine.git
+[submodule "unit3/block03/project-pricing"]
+	path = unit3/block03/project-pricing
+	url = https://github.com/raven5211/fsa_block_3_03_project-pricing.git
+[submodule "unit3/block03/tabletop-tools"]
+	path = unit3/block03/tabletop-tools
+	url = https://github.com/FullstackAcademy/tabletop-tools.git
+[submodule "unit3/block04/fsa_block_3_04_tdd-intro"]
+	path = unit3/block04/fsa_block_3_04_tdd-intro
+	url = https://github.com/raven5211/fsa_block_3_04_tdd-intro.git
