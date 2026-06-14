@@ -1,9 +1,0 @@
-[submodule "unit_1"]
-	path = unit_1
-	url = https://github.com/raven5211/fsa_unit_1.git
-[submodule "unit_2"]
-	path = unit_2
-	url = https://github.com/raven5211/fsa_unit_2.git
-[submodule "unit_3"]
-	path = unit_3
-	url = https://github.com/raven5211/fsa_unit_3.git
