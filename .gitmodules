@@ -64,3 +64,9 @@
 [submodule "unit1/block07/grid_practice"]
 	path = unit1/block07/grid_practice
 	url = https://github.com/raven5211/fsa_grid_practice.git
+[submodule "unit3/block05/loops-intro"]
+	path = unit3/block05/loops-intro
+	url = https://github.com/raven5211/fsa_loops-intro.git
+[submodule "unit3/block05/tdd-loops"]
+	path = unit3/block05/tdd-loops
+	url = https://github.com/raven5211/fsa_tdd-loops.git
