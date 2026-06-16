@@ -73,3 +73,6 @@
 [submodule "unit3/block06/array-intro"]
 	path = unit3/block06/array-intro
 	url = https://github.com/raven5211/fsa_array-intro.git
+[submodule "unit3/block06/tdd-arrays"]
+	path = unit3/block06/tdd-arrays
+	url = https://github.com/raven5211/fsa_tdd-arrays.git
