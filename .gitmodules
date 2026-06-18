@@ -82,3 +82,9 @@
 [submodule "unit3/block07/tdd-objects"]
 	path = unit3/block07/tdd-objects
 	url = https://github.com/raven5211/fsa_tdd-objects.git
+[submodule "unit3/block08/array-methods-intro"]
+	path = unit3/block08/array-methods-intro
+	url = https://github.com/raven5211/fsa_array-methods-intro.git
+[submodule "unit3/block08/groceries"]
+	path = unit3/block08/groceries
+	url = https://github.com/raven5211/fsa_groceries.git
