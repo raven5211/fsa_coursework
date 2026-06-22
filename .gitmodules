@@ -88,3 +88,9 @@
 [submodule "unit3/block08/groceries"]
 	path = unit3/block08/groceries
 	url = https://github.com/raven5211/fsa_groceries.git
+[submodule "unit3/block09/inspirational-quotes"]
+	path = unit3/block09/inspirational-quotes
+	url = https://github.com/raven5211/fsa_inspirational-quotes.git
+[submodule "unit3/block09/freelance-forum"]
+	path = unit3/block09/freelance-forum
+	url = https://github.com/raven5211/fsa_freelancer-forum.git
