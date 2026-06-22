@@ -94,3 +94,6 @@
 [submodule "unit3/block09/freelance-forum"]
 	path = unit3/block09/freelance-forum
 	url = https://github.com/raven5211/fsa_freelancer-forum.git
+[submodule "unit3/block09/DOM-practice"]
+	path = unit3/block09/DOM-practice
+	url = https://github.com/raven5211/fsa_DOM-practice.git
