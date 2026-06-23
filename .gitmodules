@@ -97,9 +97,12 @@
 [submodule "unit3/block09/DOM-practice"]
 	path = unit3/block09/DOM-practice
 	url = https://github.com/raven5211/fsa_DOM-practice.git
-[submodule "unit1/block10/counting-sheep"]
-	path = unit1/block10/counting-sheep
-	url = https://github.com/raven5211/fsa_counting-sheep.git
-[submodule "unit1/block10/odds-and-evens"]
-	path = unit1/block10/odds-and-evens
+[submodule "unit3/block10/event-practice"]
+	path = unit3/block10/event-practice
+	url = https://github.com/raven5211/fsa_event-practice.git
+[submodule "unit3/block10/odds-and-evens"]
+	path = unit3/block10/odds-and-evens
 	url = https://github.com/raven5211/fsa_odds-and-evens.git
+[submodule "unit3/block10/counting-sheep"]
+	path = unit3/block10/counting-sheep
+	url = https://github.com/raven5211/fsa_counting-sheep.git
