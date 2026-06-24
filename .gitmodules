@@ -106,3 +106,9 @@
 [submodule "unit3/block10/counting-sheep"]
 	path = unit3/block10/counting-sheep
 	url = https://github.com/raven5211/fsa_counting-sheep.git
+[submodule "unit3/block11/fullstack-gala"]
+	path = unit3/block11/fullstack-gala
+	url = https://github.com/raven5211/fsa_fullstack-gala.git
+[submodule "unit3/block11/party-planner"]
+	path = unit3/block11/party-planner
+	url = https://github.com/raven5211/fsa_party-planner.git
