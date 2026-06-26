@@ -118,3 +118,6 @@
 [submodule "unit3/block12/party-planner-admin"]
 	path = unit3/block12/party-planner-admin
 	url = https://github.com/raven5211/fsa_party-planner-admin.git
+[submodule "unit3/block13/puppy-bowl"]
+	path = unit3/block13/puppy-bowl
+	url = https://github.com/raven5211/fsa_puppy-bowl.git
