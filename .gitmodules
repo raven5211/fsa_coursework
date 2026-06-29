@@ -121,3 +121,9 @@
 [submodule "unit3/block13/puppy-bowl"]
 	path = unit3/block13/puppy-bowl
 	url = https://github.com/raven5211/fsa_puppy-bowl.git
+[submodule "unit4/block01/puppy-pals"]
+	path = unit4/block01/puppy-pals
+	url = https://github.com/raven5211/fsa_puppy-pals.git
+[submodule "unit4/block01/dark-echoes"]
+	path = unit4/block01/dark-echoes
+	url = https://github.com/raven5211/fsa_dark-echoes.git
