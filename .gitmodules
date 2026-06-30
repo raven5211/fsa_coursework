@@ -127,3 +127,9 @@
 [submodule "unit4/block01/dark-echoes"]
 	path = unit4/block01/dark-echoes
 	url = https://github.com/raven5211/fsa_dark-echoes.git
+[submodule "unit4/block02/color-palette"]
+	path = unit4/block02/color-palette
+	url = https://github.com/raven5211/fsa_color-palette.git
+[submodule "unit4/block02/react-tv"]
+	path = unit4/block02/react-tv
+	url = https://github.com/raven5211/fsa_react-tv.git
