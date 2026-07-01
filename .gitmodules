@@ -133,3 +133,6 @@
 [submodule "unit4/block02/react-tv"]
 	path = unit4/block02/react-tv
 	url = https://github.com/raven5211/fsa_react-tv.git
+[submodule "unit4/block03/proper-plants"]
+	path = unit4/block03/proper-plants
+	url = https://github.com/raven5211/fsa_proper-plants.git
