@@ -136,3 +136,6 @@
 [submodule "unit4/block03/proper-plants"]
 	path = unit4/block03/proper-plants
 	url = https://github.com/raven5211/fsa_proper-plants.git
+[submodule "unit4/block04/does-it-glow"]
+	path = unit4/block04/does-it-glow
+	url = https://github.com/raven5211/fsa_does-it-glow.git
