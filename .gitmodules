@@ -139,3 +139,6 @@
 [submodule "unit4/block04/does-it-glow"]
 	path = unit4/block04/does-it-glow
 	url = https://github.com/raven5211/fsa_does-it-glow.git
+[submodule "unit4/block04/whack-a-mole"]
+	path = unit4/block04/whack-a-mole
+	url = https://github.com/raven5211/fsa_whack-a-mole.git
