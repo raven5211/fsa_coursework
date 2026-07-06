@@ -142,3 +142,9 @@
 [submodule "unit4/block04/whack-a-mole"]
 	path = unit4/block04/whack-a-mole
 	url = https://github.com/raven5211/fsa_whack-a-mole.git
+[submodule "unit4/block05/capybara-clicker"]
+	path = unit4/block05/capybara-clicker
+	url = https://github.com/raven5211/fsa_capabara-clicker.git
+[submodule "unit4/block05/guest-list"]
+	path = unit4/block05/guest-list
+	url = https://github.com/raven5211/fsa_guest-list.git
