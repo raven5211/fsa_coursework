@@ -148,3 +148,9 @@
 [submodule "unit4/block05/guest-list"]
 	path = unit4/block05/guest-list
 	url = https://github.com/raven5211/fsa_guest-list.git
+[submodule "unit4/block06/number-guesser"]
+	path = unit4/block06/number-guesser
+	url = https://github.com/raven5211/fsa_number-guesser.git
+[submodule "unit4/block06/secret-tunnel"]
+	path = unit4/block06/secret-tunnel
+	url = https://github.com/raven5211/fsa_secret-tunnel.git
