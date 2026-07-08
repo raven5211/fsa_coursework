@@ -157,3 +157,6 @@
 [submodule "unit4/block07/fitness-intro"]
 	path = unit4/block07/fitness-intro
 	url = https://github.com/raven5211/fsa_fitness-intro.git
+[submodule "unit4/block07/fitness-trackr"]
+	path = unit4/block07/fitness-trackr
+	url = https://github.com/raven5211/fsa_fitness-trackr.git
