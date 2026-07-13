@@ -166,3 +166,6 @@
 [submodule "unit4/block08/fitness-trackr-pro"]
 	path = unit4/block08/fitness-trackr-pro
 	url = https://github.com/raven5211/fsa_fitness-trackr-pro.git
+[submodule "unit4/block09/fsa_fitness-trackr-pro"]
+	path = unit4/block09/fitness-trackr-pro
+	url = https://github.com/raven5211/fsa_fitness-trackr-pro.git
