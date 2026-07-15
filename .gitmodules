@@ -172,3 +172,15 @@
 [submodule "unit4/block10/BookBuddy"]
 	path = unit4/block10/BookBuddy
 	url = https://github.com/raven5211/fsa_BookBuddy.git
+[submodule "unit6/block01/employee-directory"]
+	path = unit6/block01/employee-directory
+	url = https://github.com/raven5211/fsa_employee-directory.git
+[submodule "unit6/block01/playlist"]
+	path = unit6/block01/playlist
+	url = https://github.com/raven5211/fsa_playlist.git
+[submodule "unit6/block02/notepad"]
+	path = unit6/block02/notepad
+	url = https://github.com/raven5211/fsa_notepad.git
+[submodule "unit6/block02/employee-directory-v2"]
+	path = unit6/block02/employee-directory-v2
+	url = https://github.com/raven5211/fsa_employee-directory-v2.git
