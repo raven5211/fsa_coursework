@@ -184,3 +184,9 @@
 [submodule "unit6/block02/employee-directory-v2"]
 	path = unit6/block02/employee-directory-v2
 	url = https://github.com/raven5211/fsa_employee-directory-v2.git
+[submodule "unit6/block03/pit-stop"]
+	path = unit6/block03/pit-stop
+	url = https://github.com/raven5211/fsa_pit-stop.git
+[submodule "unit6/block03/mainframe-override"]
+	path = unit6/block03/mainframe-override
+	url = https://github.com/raven5211/fsa_mainframe-override.git
