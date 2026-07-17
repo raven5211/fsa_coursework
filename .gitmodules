@@ -193,3 +193,6 @@
 [submodule "unit6/block04/movieDB"]
 	path = unit6/block04/movieDB
 	url = https://github.com/raven5211/fsa_movieDB.git
+[submodule "unit6/block04/fullstack-employees"]
+	path = unit6/block04/fullstack-employees
+	url = https://github.com/raven5211/fsa_fullstack-employees.git
