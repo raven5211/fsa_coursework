@@ -202,3 +202,9 @@
 [submodule "unit6/block05/fullstack-employees"]
 	path = unit6/block05/fullstack-employees
 	url = https://github.com/raven5211/fsa_fullstack-employees.git
+[submodule "unit6/block06/dmv"]
+	path = unit6/block06/dmv
+	url = https://github.com/raven5211/fsa_dmv.git
+[submodule "unit6/block06/filez"]
+	path = unit6/block06/filez
+	url = https://github.com/raven5211/fsa_filez.git
