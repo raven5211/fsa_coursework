@@ -208,3 +208,9 @@
 [submodule "unit6/block06/filez"]
 	path = unit6/block06/filez
 	url = https://github.com/raven5211/fsa_filez.git
+[submodule "unit6/block07/bridge-hospital"]
+	path = unit6/block07/bridge-hospital
+	url = https://github.com/raven5211/fsa_bridge-hospital.git
+[submodule "unit6/block07/jukebox"]
+	path = unit6/block07/jukebox
+	url = https://github.com/raven5211/fsa_jukebox.git
