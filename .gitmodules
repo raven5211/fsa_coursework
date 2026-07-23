@@ -214,3 +214,9 @@
 [submodule "unit6/block07/jukebox"]
 	path = unit6/block07/jukebox
 	url = https://github.com/raven5211/fsa_jukebox.git
+[submodule "unit6/block08/table4u"]
+	path = unit6/block08/table4u
+	url = https://github.com/raven5211/fsa_table4u.git
+[submodule "unit6/block08/jukebox-pro"]
+	path = unit6/block08/jukebox-pro
+	url = https://github.com/raven5211/fsa_jukebox-pro.git
