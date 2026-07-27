@@ -220,3 +220,9 @@
 [submodule "unit6/block08/jukebox-pro"]
 	path = unit6/block08/jukebox-pro
 	url = https://github.com/raven5211/fsa_jukebox-pro.git
+[submodule "unit6/block09/task-list"]
+	path = unit6/block09/task-list
+	url = https://github.com/raven5211/fsa_task-list.git
+[submodule "unit6/block10/Market"]
+	path = unit6/block10/Market
+	url = https://github.com/raven5211/fsa_Market.git
